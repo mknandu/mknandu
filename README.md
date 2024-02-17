@@ -1,4 +1,4 @@
-# Hi there, I'm M K Nandu Krishan! 👋
+# Hi there, I'm M K Nandu Krishna! 👋
 
  Electrical and Electronics Engineering from India.
 
