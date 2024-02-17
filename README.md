@@ -2,7 +2,7 @@
 
  Electrical and Electronics Engineering from India.
 
-🔭 Currently, I'm diving into [specific project or area of interest].
+🔭 Currently, I'm diving into [object detection].
 🌱 Always eager to learn and enhance my skills.
 💼 Open to exciting collaborations and opportunities where I can contribute and grow.
 📫 You can reach out to me at [mknandukrishna007@gmail.com](mailto:mknandukrishna007@gmail.com).
